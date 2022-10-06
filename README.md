@@ -1,7 +1,7 @@
 # AtomStockDashboard
 
 ## About
-M5Stack's Atom Matrix is a nice 5 by 5 led matrix controller. It is perfect for dashboarding an visualizing information. In this case I have pulled up the top 25 stocks in Sweden.
+M5Stack's Atom Matrix is a nice 5 by 5 led matrix controller. It is perfect for dashboarding an visualizing information on 24x24 mm. In this case I have pulled up the top 25 stocks in Sweden.
 
 Collection of stock prices - A bad day
 <img src="https://user-images.githubusercontent.com/5114806/194228437-8d7fa954-03ef-4fd4-963f-599766dde5dc.jpg" width="200" height="300">
